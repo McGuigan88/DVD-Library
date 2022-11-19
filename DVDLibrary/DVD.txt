@@ -1,0 +1,11 @@
+Jaws,10111979,15,Steven Spielberg,Universal Pictures,A biteful
+Spiderman 3,04052007,12,Sam Raimi,Marvel Studios,Epic finale to a trilogy
+The lord of the rings: the fellowship of the ring,10122001,13,Peter Jackson,New Line Cinema,10/10
+The Social Netwrok,15102010,PG-13,David Fincher,Columbia Pictures,Very Good
+Inglourious Basterds,23122009,18,Quentin Tarantino,Universal Pictures,Tarantino's best
+Once Upon a Time in Hollywood,14082019,18,Quentin Tarantino,Columbia Pictures,Cinema
+Dune,21102021,15,Denis Villeneuve,Legendary Pictures,A modern epic
+The Grand Budapest Hotel,07032014,15,Wes Anderson,Searchlight Pictures,Modern masterpiece
+Apocolypse Now,01121979,15,Francis Ford Coppola,United Artists,Best war film oat
+Whiplash,16012014,15,Damien Chazelle,Blumhouse,Should have won Best picture
+La La Land,12012017,15,Damien Chazelle,Lionsgate,9/10
